@@ -1,0 +1,6 @@
+{
+  "name": "lenxl",
+  "description": "lenxl - AI search & generative intelligence analytics platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
